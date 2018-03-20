@@ -1,0 +1,16 @@
+{
+  "name": "hyper-city-lights",
+  "version": "1.0.0",
+  "description": "Hyper theme with City Lights syntax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hyper",
+    "theme",
+    "city-lights"
+  ],
+  "author": "mmcbride1007@gmail.com",
+  "license": "MIT"
+}
